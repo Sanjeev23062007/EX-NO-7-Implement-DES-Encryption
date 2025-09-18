@@ -60,7 +60,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
  }
 ```
 ## Output:
-<img width="812" height="404" alt="image" src="https://github.com/user-attachments/assets/dc9ae3ae-7281-4958-980a-9bc55c2a9e89" />
+<img width="597" height="339" alt="image" src="https://github.com/user-attachments/assets/71d125e1-4acc-4f07-aa03-d30741a2f4c4" />
 
 
 ## Result:
